@@ -172,7 +172,7 @@ eval("\n// Create an async boundary before bootstrapping the app\nPromise.all(/*
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "https://AbdulKadirKhann.github.io/edit-user-app-vue3/users-app-vue3/";
+/******/ 		__webpack_require__.p = "https://AbdulKadirKhann.github.io/edit-user-app-vue3/edit-user-app-vue3/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
