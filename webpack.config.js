@@ -7,7 +7,7 @@ module.exports = {
   entry: './src/main.ts', // for local dev
   mode: 'development',
   output: {
-    publicPath:'https://AbdulKadirKhann.github.io/edit-user-app-vue3/edit-user-app-vue3/',
+    publicPath:'https://AbdulKadirKhann.github.io/edit-user-app-vue3/',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
   },
